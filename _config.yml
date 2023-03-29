@@ -6,3 +6,8 @@ plugins:
   - jekyll-remote-theme
 
 collections_dir: content
+collections:
+  events:
+    output: true
+  projects:
+    output: true
