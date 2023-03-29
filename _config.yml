@@ -3,4 +3,6 @@ author: s_lity
 title: REV
 description: _REV BL0G
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+collections_dir: content
