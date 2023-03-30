@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
+[post1](./_posts/2023-03-29-testblog.md)
 
 There should be whitespace between paragraphs.
 
