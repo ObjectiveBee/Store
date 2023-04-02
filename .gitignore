@@ -1,0 +1,4 @@
+Gemfile.lock
+jekyll-regex-replace.gemspec
+.jekyll-cache
+lib

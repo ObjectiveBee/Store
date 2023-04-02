@@ -5,4 +5,5 @@ plugins:
 author: s_lity
 title: REV
 description: _REV BL0G
+baseurl: /Store
 url: https://objectivebee.github.io/Store
