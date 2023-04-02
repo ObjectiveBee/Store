@@ -11,7 +11,7 @@ layout: postwrap
 
 <p class="view" style="text-align: right;">by {{ page.author | default: site.author }}</p>
 
-{{content}}
+{{content | regex_replace: "abc" "111"}}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
